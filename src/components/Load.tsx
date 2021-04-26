@@ -6,7 +6,7 @@ import {
 
 import LottieView from 'lottie-react-native'
 
-import LoadAnimation from '../assets/growing-plant.json'
+import LoadAnimation from '../assets/load.json'
 
 export function Load () {
   return (
